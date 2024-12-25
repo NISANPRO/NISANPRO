@@ -21,13 +21,13 @@ I'm a passionate developer with a keen interest in web development, open-source 
 ## 📈 GitHub Stats
 
 ![Nisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NISANPRO&show_icons=true&theme=green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NISANPRO&layout=compact&theme=green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NISANPRO&layout=dark&theme=green)
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=Gmail&logoColor=white)](mailto:nisaneditz@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=green)](https://twitter.com/your-profile)
+[![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=Gmail&logoColor=red)](mailto:nisaneditz@gmail.com)
 
 ## 🏆 Achievements
 
