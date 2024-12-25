@@ -1,6 +1,6 @@
 # Hi there, I'm Nisan! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=NISANPRO&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=NISANPRO&color=blue)
 
 ## About Me
 
