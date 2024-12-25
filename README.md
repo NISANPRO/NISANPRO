@@ -20,8 +20,8 @@ I'm a passionate developer with a keen interest in web development, open-source 
 
 ## 📈 GitHub Stats
 
-![Nisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NISANPRO&show_icons=true&theme=green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NISANPRO&layout=dark&theme=green)
+![Nisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NISANPRO&show_icons=true&theme=blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NISANPRO&layout=compact&theme=blue)
 
 ## 🔗 Connect with Me
 
