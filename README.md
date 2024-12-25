@@ -20,19 +20,19 @@ I'm a passionate developer with a keen interest in web development, open-source 
 
 ## 📈 GitHub Stats
 
-![Nisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NISANPRO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NISANPRO&layout=compact&theme=radical)
+![Nisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NISANPRO&show_icons=true&theme=green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NISANPRO&layout=compact&theme=green)
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=Gmail&logoColor=white)](mailto:nisaneditz@gmail.com)
 
 ## 🏆 Achievements
 
-- Contributed to [NISAN-GoatBot-v2](https://github.com/repo-link), an open-source project that helps with XYZ.
-- Built a [Web Application](https://your-project-link.com) that allows users to ABC.
+- Contributed to [Join-OurSupport-Group](https://m.me/j/AbaG_MksmU2UCrmL/), an open-source project that helps with XYZ.
+- Built a [Telegram-Group](https://t.me/CyberLisa_Bot) that allows users to ABC.
 
 ## 📚 Blog Posts
 
