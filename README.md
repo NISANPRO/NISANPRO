@@ -37,6 +37,6 @@ I'm a passionate developer with a keen interest in web development, open-source 
 ## 📚 Blog Posts
 
 - [How to Get Started with React](https://medium.com/@your-profile/how-to-get-started-with-react)
-- [Understanding Asynchronous JavaScript](https://dev.to/your-profile/understanding-asynchronous-javascript)
+- [Understanding Asynchronous JavaScript](https://dev.to/nisanpro/understanding-asynchronous-javascript)
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project. 😊
